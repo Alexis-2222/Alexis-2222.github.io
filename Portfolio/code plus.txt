@@ -1,0 +1,26 @@
+<div class="art">
+                        <h3 class="tproj">Système de chauffage / Site web</h3>
+                        <article>
+                            <img src="image/chauffage.png" alt="Photo d'un système de chauffage">
+                            <div>
+                                <h4>Résumé :</h4>
+                                <p class="resume">Configuration d'un système de chauffage automaique lié à un site internet.</p>
+                                <h4>Compétence :</h4>
+                                    <p>- Arduino <br>
+                                    - HTML/CSS</p>
+                            </div>
+                        </article>
+                    </div>
+<div class="art">
+                        <h3 class="tproj">Site Web</h3>
+                        <article>
+                            <img src="image/JOTeddy.png" alt="Photo d'un site internet sur le theme de teddy riner">
+                            <div>
+                                <h4>Résumé :</h4>
+                                <p class="resume">Création d'un site internet en équipe sur le thème des Jeux Olympiques </p>
+                                <h4>Compétence :</h4>
+                                <p>- HTML/CSS <br>
+                                    -GITHUB</p>
+                            </div>
+                        </article>
+                    </div>
