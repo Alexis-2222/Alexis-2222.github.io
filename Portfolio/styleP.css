@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    font-family: "Arial", sans-serif;
+    overflow-x: hidden;
+}
+
+header{
+    position: relative;
+    background-color: #323b4c;
+    color: white;
+    text-align: center;
+    height: 5em;
+    padding-top: 2%;
+}
+
+a{color: white;}
+
+#presentation{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+
+.moi{
+    margin-left: 2%;
+    height: 40%;
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+    font-size: x-large;
+    line-height: 140%;
+}
+
+
+footer{
+    background-color: #323b4c;
+    color: white;
+    margin: 0;
+    padding: 5%;
+    display: flex;
+    justify-content: space-between;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+footer img{
+    height: 10%;
+    width: 10%;
+}
